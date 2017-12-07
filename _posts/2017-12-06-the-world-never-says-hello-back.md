@@ -39,9 +39,11 @@ main( )
 
 The C version excluded the exclamation mark. Note that neither of these versions use the capital letter H in _Hello, world!_ that we commonly use today. While there is no hard timeline on how the transition occured, it would be safe to assume that it happened purely for grammatical correctness as more authors started using it.
 
-One major catalyst that sparked the spread of ‘Hello, world’ was the parallel introduction of the PDP-11, one of the first commercial success of microcomputers. Digital Equipment Corporation (DEC) sold over 600,000 units of the PDP-11 total at about $10,000 each, which was drastically lower than the millions of dollars computers typically cost. Plus, the PDP-11 16-bit series didn’t require punch cards. It was the first time you could use a programming language to directly talk to a computer.
+One major catalyst that sparked the spread of ‘_Hello, world_’ was the parallel introduction of the PDP-11, one of the first commercial success of microcomputers. Digital Equipment Corporation (DEC) sold over 600,000 units of the PDP-11 total at about $10,000 each, which was drastically lower than the millions of dollars computers typically cost. Plus, the PDP-11 16-bit series didn’t require punch cards. It was the first time you could use a programming language to directly talk to a computer.
 
-C and the operating system Unix first became popular on the PDP-11. So, it would follow then that the boom in commercial computers that supports the new C programming language, propelled thousands of people to read the 200-page book, _The C Programming Language_. Every programmer remembers their first ‘Hello World’ as a rite of passage. Many might not realize it, but each time a programmer feels the sweet feeling of triumph in clearing the first hurdle of programming with the words ‘Hello, world,’ is experiencing a moment that transcends history.
+C and the operating system Unix first became popular on the PDP-11. So, it would follow then that the boom in commercial computers that supports the new C programming language, propelled thousands of people to read the 200-page book, _The C Programming Language_.
+
+Every programmer remembers their first ‘Hello World’ as a rite of passage. Many might not realize it, but each time a programmer feels the sweet feeling of triumph in clearing the first hurdle of programming with the words ‘Hello, world,’ is experiencing a moment that transcends history.
 
 TIP: If you've wondered how easy, verbose or trivial a _Hello, world_ program would be in different languages, you may want to check out [The Hello World Collection](https://helloworldcollection.github.io/), a collection of _Hello, world_ implemented in just about every programming language on the planet.
 
