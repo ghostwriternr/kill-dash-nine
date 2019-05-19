@@ -4,19 +4,21 @@ title: About
 permalink: /about/
 ---
 
-# Hey!
+![ME!](/images/me.jpg)
+
+# Hi! 👋
 
 I am Naresh. I'm a software engineer at Intuit, Bangalore. I graduated with a Dual Degree (Bachelors + Masters) in Computer Science from IIT Kharagpur, India in the summer of 2018. The purpose of this blog would be to document some of my thoughts about all things code and computers.
 
-## What's with the name?
+## What's with the name? 🤔
 
-Guess #1: _Because you love Linux?_\
-    Yeah I do. But that's not all.
+Guess #1: _Is it because you love Linux?_ 🐧  
+    Yeah I do! 💖 But that's not all.
 
-Guess #2: _Because you're a raging psycopath?_\
+Guess #2: _Because you're a raging psycopath?_ 👽  
     **cough cough** No!
 
-Guess #3: _Monzy???_\
+Guess #3: _Monzy???_ 🤓  
     Y-E-S!
 
 <style>
