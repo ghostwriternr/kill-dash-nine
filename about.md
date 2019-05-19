@@ -6,15 +6,18 @@ permalink: /about/
 
 # Hey!
 
-I am Naresh. A final year student pursuing a Dual Degree (Bachelors + Masters) in Computer Science at IIT Kharagpur, India. The purpose of this blog would be to document some of my thoughts about all things code and Computer Science.
+I am Naresh. I'm a software engineer at Intuit, Bangalore. I graduated with a Dual Degree (Bachelors + Masters) in Computer Science from IIT Kharagpur, India in the summer of 2018. The purpose of this blog would be to document some of my thoughts about all things code and computers.
 
-## So, what's with the name?
+## What's with the name?
 
-Guess #1: _Because you love Linux?_  
-    Yeah I do. But that didn't inspire the name.  
-  
-Guess #2: _Monzy???_  
-    YEP!  
+Guess #1: _Because you love Linux?_\
+    Yeah I do. But that's not all.
+
+Guess #2: _Because you're a raging psycopath?_\
+    **cough cough** No!
+
+Guess #3: _Monzy???_\
+    Y-E-S!
 
 <style>
 .videoWrapper {
